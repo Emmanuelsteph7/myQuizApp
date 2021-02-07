@@ -1,0 +1,15 @@
+body {
+    background-image: linear-gradient(to top left, #fff0f0, #9e7b98, #79e4db);
+}
+
+.hide {
+    display: none;
+}
+
+.removePointer {
+    pointer-events: none;
+}
+
+#progress {
+    height: 30px;
+}
