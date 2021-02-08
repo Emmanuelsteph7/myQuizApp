@@ -34,7 +34,7 @@
 			answers: [
 				{ text: "18", correct: false },
 				{ text: "3", correct: false },
-				{ text: "21", correct: true },
+				{ text: "19", correct: true },
 				{ text: "29", correct: false },
 			],
 		},
